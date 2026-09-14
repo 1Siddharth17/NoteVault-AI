@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-NoteVaultApplication<notevault>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.notevault.NoteVaultApplication",
+            "projectName": "notevault",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
